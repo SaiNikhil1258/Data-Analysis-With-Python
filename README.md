@@ -15,4 +15,4 @@ Learn data analysis with Python in this comprehensive certification program. Wor
 [Data Analysis with Python Certification](https://www.freecodecamp.org/certification/SainikhilAries/data-analysis-with-python-v7)
 
 
-Visit [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis) to start learning.
+Visit [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/) to start learning.
